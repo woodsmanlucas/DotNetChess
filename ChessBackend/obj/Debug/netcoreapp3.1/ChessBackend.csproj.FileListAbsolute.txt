@@ -1,0 +1,9 @@
+C:\Users\Johnl\source\repos\ChessBackend\ChessBackend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Johnl\source\repos\ChessBackend\ChessBackend\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Johnl\source\repos\ChessBackend\ChessBackend\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Johnl\source\repos\ChessBackend\ChessBackend\obj\Debug\netcoreapp3.1\ChessBackend.csprojAssemblyReference.cache
+C:\Users\Johnl\source\repos\ChessBackend\ChessBackend\obj\Debug\netcoreapp3.1\ChessBackend.AssemblyInfoInputs.cache
+C:\Users\Johnl\source\repos\ChessBackend\ChessBackend\obj\Debug\netcoreapp3.1\ChessBackend.AssemblyInfo.cs
+C:\Users\Johnl\source\repos\ChessBackend\ChessBackend\obj\Debug\netcoreapp3.1\ChessBackend.RazorTargetAssemblyInfo.cache
+C:\Users\Johnl\source\repos\ChessBackend\ChessBackend\obj\Debug\netcoreapp3.1\staticwebassets\ChessBackend.StaticWebAssets.Manifest.cache
+C:\Users\Johnl\source\repos\ChessBackend\ChessBackend\obj\Debug\netcoreapp3.1\staticwebassets\ChessBackend.StaticWebAssets.xml
