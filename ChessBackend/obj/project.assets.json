@@ -83,30 +83,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Johnl\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/home/lucas/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Johnl\\source\\repos\\ChessBackend\\ChessBackend\\ChessBackend.csproj",
+      "projectUniqueName": "/home/lucas/Desktop/DotNetChess/ChessBackend/ChessBackend.csproj",
       "projectName": "ChessBackend",
-      "projectPath": "C:\\Users\\Johnl\\source\\repos\\ChessBackend\\ChessBackend\\ChessBackend.csproj",
-      "packagesPath": "C:\\Users\\Johnl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Johnl\\source\\repos\\ChessBackend\\ChessBackend\\obj\\",
+      "projectPath": "/home/lucas/Desktop/DotNetChess/ChessBackend/ChessBackend.csproj",
+      "packagesPath": "/home/lucas/.nuget/packages/",
+      "outputPath": "/home/lucas/Desktop/DotNetChess/ChessBackend/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Johnl\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/lucas/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -138,6 +132,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.2, 3.1.2]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -146,7 +146,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.300/RuntimeIdentifierGraph.json"
       }
     }
   }

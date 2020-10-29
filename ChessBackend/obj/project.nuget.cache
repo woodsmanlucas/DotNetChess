@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "BSRZeSKGXCEeEtwmIh7qW4H26B6wct6SsHp3dopQ7A0/q0vRGBqqxDLnj5j2F5s/SnSfujgCF4x/M68GPN2rIg==",
+  "dgSpecHash": "aSPqukUXN5vtz/vE7iz+9CODwQyoSTmjKNhGJbNUDfwgT+3X5F3VEHmj4c4pez05O8EEKPjh0GxzuFC5IDzpog==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Johnl\\source\\repos\\ChessBackend\\ChessBackend\\ChessBackend.csproj",
+  "projectFilePath": "/home/lucas/Desktop/DotNetChess/ChessBackend/ChessBackend.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Johnl\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512"
+    "/home/lucas/.nuget/packages/microsoft.visualstudio.azure.containers.tools.targets/1.10.8/microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512",
+    "/home/lucas/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.2/microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],
   "logs": []
 }
